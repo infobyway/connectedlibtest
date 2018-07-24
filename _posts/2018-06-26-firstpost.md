@@ -1,5 +1,6 @@
 ---
 layout: moduleone
+permalink: /firstpost/
 ---
 
 Here's a post. 
