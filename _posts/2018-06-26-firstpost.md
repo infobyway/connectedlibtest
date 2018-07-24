@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: moduleone
 ---
 
 Here's a post. 
